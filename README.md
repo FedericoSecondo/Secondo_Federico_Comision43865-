@@ -35,3 +35,6 @@ Avatar: pemite modelar la funcionalidad para generar avatares para los usuarios 
 Todas las funcionalidades de: Buscar, Agregar, Editar y Borrar información solo esta permitida para usuarios registrados.
 
 Usuario administrador y su contraseña para acceder al panel de administración: fsecondo / 1234
+
+[Ver Video de Descripción de la Aplicación]([URL_del_video](https://www.loom.com/share/c71ad95aa6704e8db7cfb1ef2c1ea88c?sid=9b7c23d8-0263-4fa6-be34-a39e9b8ac248)https://www.loom.com/share/c71ad95aa6704e8db7cfb1ef2c1ea88c?sid=9b7c23d8-0263-4fa6-be34-a39e9b8ac248)
+
