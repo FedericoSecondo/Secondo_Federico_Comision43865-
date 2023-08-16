@@ -1,0 +1,11 @@
+{% extends 'acciones/base.html' %}
+{% block titulo %}Búsqueda de Acción{% endblock titulo %}
+{% block cabecera %}
+    <h1><a href="{% url 'federico_secondo' %}" class="enlace-agregar text-dark">Búsqueda de Acción</a></h1>
+{% endblock cabecera %}
+{% block contenido %}
+    <form method="get" action="{% url 'buscar_accion' %}">
+        <input type="text" name="simbolo" placeholder="Ingrese el símbolo de la acción">
+        <button type="submit">Buscar</button>
+    </form>
+{% endblock contenido %}

@@ -1,0 +1,17 @@
+{% extends 'acciones/base.html' %}
+
+{% block titulo %}Detalle de Acción{% endblock titulo %}
+
+{% block cabecera %}
+    <h1><a href="{% url 'federico_secondo' %}" class="enlace-agregar text-dark">Detalle de Acción</a></h1>
+{% endblock cabecera %}
+
+{% block contenido %}
+    {% if accion %}
+        <h2>Detalles de la Acción</h2>
+        <p>Simbolo: {{ accion.simbolo }}</p>
+        <p>Descripción: {{ accion.descripcion }}</p>
+        <p>Fecha de Fundación: {{ accion.fecha_fundacion }}</p>
+    {% endif %}
+{% endblock contenido %}
+
