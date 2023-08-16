@@ -1,4 +1,4 @@
-# Secondo_Federico_Comision43865-
+# Aplicacion Monitor de Acciones ! Seguimiento del mercado de capitales !-
 
 La Aplicacion: Monitor de Acciones es una aplicacion que permite a sus usuarios ingresar informacion de acciones del mercado de capitales para monitorear.
 
